@@ -89,7 +89,7 @@ dependencies:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/mariocorzo/flutter_login
-   cd <repository_folder>
+   cd flutter_login
    ```
 
 2. **Install Dependencies:**
